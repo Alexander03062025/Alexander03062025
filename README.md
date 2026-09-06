@@ -22,10 +22,10 @@ Aprendo construyendo: escribo código todos los días y subo aquí lo que voy ha
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [**inventario-tienda**](https://github.com/Alexander03062025/inventario-tienda) | App web full-stack para gestionar el inventario de una tienda: API REST, control de stock, alertas y panel de cifras. | Java, Spring Boot, JPA, JavaScript |
+| [**inventario-tienda**](https://github.com/Alexander03062025/inventario-tienda) · [🌐 demo](https://inventario-tienda-x7m4.onrender.com) | App web full-stack para gestionar el inventario de una tienda: API REST con **login JWT y roles**, control de stock, alertas y panel de cifras. Desplegada en Render con Docker + PostgreSQL. | Java, Spring Boot, Spring Security, JPA, JavaScript, Docker |
 | [**java-poo-biblioteca**](https://github.com/Alexander03062025/java-poo-biblioteca) | Sistema de gestión de biblioteca por consola. Práctica de clases abstractas, herencia, interfaces y polimorfismo. | Java |
 
-*(Más proyectos en camino.)*
+*(Demo: entra como `vendedor` / `vendedor123`. La primera carga puede tardar ~50 s en despertar.)*
 
 ## 📊 Actividad en GitHub
 
