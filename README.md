@@ -11,6 +11,7 @@ Aprendo construyendo: escribo código todos los días y subo aquí lo que voy ha
 ## 🛠️ Tecnologías
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,6 +22,7 @@ Aprendo construyendo: escribo código todos los días y subo aquí lo que voy ha
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
+| [**inventario-tienda**](https://github.com/Alexander03062025/inventario-tienda) | App web full-stack para gestionar el inventario de una tienda: API REST, control de stock, alertas y panel de cifras. | Java, Spring Boot, JPA, JavaScript |
 | [**java-poo-biblioteca**](https://github.com/Alexander03062025/java-poo-biblioteca) | Sistema de gestión de biblioteca por consola. Práctica de clases abstractas, herencia, interfaces y polimorfismo. | Java |
 
 *(Más proyectos en camino.)*
